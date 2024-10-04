@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeliz G.</h1>
-<h3 align="center">IT Asistant Specialist</h3>
+<h3 align="center">IT Specialist</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://www.linkedin.com/in/yelizgl/" target="_blank" rel="noreferrer"> </a> </p>
